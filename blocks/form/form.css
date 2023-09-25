@@ -2,8 +2,8 @@
     --background-color-primary: #fff;
     --label-color: #666;
     --border-color: #818a91;
-    --button-primary-color: #5F8DDA;
-    --button-primary-hover-color: #035fe6;
+    --button-primary-color: #dc1928;
+    --button-primary-hover-color: #dc1928;
     --form-font-size-m: 22px;
     --form-font-size-s: 18px;
     --form-font-size-xs: 16px;
@@ -184,7 +184,7 @@ main .form button {
     padding: var(--form-button-padding);
     font-size: var(--form-button-font-size);
     font-weight: var(--mt-font-weight-bold);
-    border-radius: unset;
+    border-radius: 6px;
     width: 100%;
 }
 
