@@ -11,13 +11,6 @@
   order: 1;
 }
 
-.columns > div:first-child {
-  border-left: #DC191F;
-  border-width: 0px 0px 0px 3px;
-  border-style: solid;
-  padding-left: 30px;
-}
-
 .columns > div > .columns-img-col {
   order: 0;
 }
